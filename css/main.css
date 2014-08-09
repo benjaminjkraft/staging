@@ -1,4 +1,4 @@
-/* general */
+/* global layout */
 
 html {
     height: 100%;
@@ -12,6 +12,14 @@ body {
     margin: 0px 5px;
 }
 
+.page-content {
+    margin: 0px auto;
+    max-width: 650px;
+}
+
+
+/* general */
+
 a {
     color: #777;
     text-decoration: none;
@@ -21,11 +29,9 @@ a:hover {
     color: #999;
 }
 
-.page-content {
-    margin: 0px auto;
-    max-width: 600px;
+pre {
+    margin-left: 30px;
 }
-
 
 
 /* header/footer */
@@ -78,8 +84,7 @@ ul.posts, .posts li {
     margin: 0px;
 }
 
-.posts li {
-    display: block;
+.post-block, .posts li {
     margin: 0px auto;
     max-width: 90%;
 }
@@ -93,7 +98,7 @@ div.post-date {
     margin: 0px;
     margin-right: 10px;
     margin-left: auto;
-    max-width: 15%;
+    max-width: 10%;
     vertical-align: top;
     text-align: right;
     color: #aaa;
@@ -103,13 +108,48 @@ div.post-date {
     display: inline-block;
     margin: 0px;
     margin-left: auto;
-    max-width: 75%;
+    max-width: 85%;
 }
 
-.post-excerpt p:first-child {
+.post-excerpt :first-child {
     margin-top: 0px;
 }
 
-.post-excerpt p:last-child {
+.post-excerpt :last-child {
+    margin-bottom: 0px;
+}
+
+/* individual post */
+
+div.post-wrapper {
+    max-width: 90%;
+    margin: 0px auto;
+}
+
+div.post-meta {
+    display: inline-block;
+}
+
+article.post-content {
+    display: inline-block;
+    max-width: 85%;
+}
+
+div.post-meta {
+    display: inline-block;
+    margin: 0px;
+    margin-right: 10px;
+    margin-left: auto;
+    max-width: 10%;
+    vertical-align: top;
+    text-align: right;
+    color: #aaa;
+}
+
+article :first-child {
+    margin-top: 0px;
+}
+
+article :last-child {
     margin-bottom: 0px;
 }
