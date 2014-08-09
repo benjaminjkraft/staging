@@ -21,11 +21,18 @@ a:hover {
     color: #999;
 }
 
+.page-content {
+    margin: 0px auto;
+    max-width: 600px;
+}
+
+
 
 /* header/footer */
 
 .site-header {
     border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
 }
 
 .site-footer {
@@ -34,7 +41,7 @@ a:hover {
 }
 
 .push {
-    height: 31px;
+    height: 41px;
 }
 
 .wrapper {
@@ -60,4 +67,49 @@ header, footer, nav {
 
 .links-list li {
     padding: 0px 5px;
+}
+
+
+/* list of posts */
+
+ul.posts, .posts li {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+
+.posts li {
+    display: block;
+    margin: 0px auto;
+    max-width: 90%;
+}
+
+.posts a {
+    color: #333;
+}
+
+div.post-date {
+    display: inline-block;
+    margin: 0px;
+    margin-right: 10px;
+    margin-left: auto;
+    max-width: 15%;
+    vertical-align: top;
+    text-align: right;
+    color: #aaa;
+}
+
+.post-excerpt {
+    display: inline-block;
+    margin: 0px;
+    margin-left: auto;
+    max-width: 75%;
+}
+
+.post-excerpt p:first-child {
+    margin-top: 0px;
+}
+
+.post-excerpt p:last-child {
+    margin-bottom: 0px;
 }
