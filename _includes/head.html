@@ -6,7 +6,7 @@
     <title>{% if page.title %}{{ page.title }} | {{site.title}}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" href="/feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url | append: "/feed.xml" }}">
 
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="stylesheet" type="text/css" href="/css/syntax.css">
