@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Ben Kraft, and this is my website.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm currently:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* a senior at MIT
+* majoring in (theoretical) math
+* living in [Random Hall](//web.mit.edu/random-hall/)
+
+I have recently or not-so-recently:
+
+* grown up in Bethlehem, Pennsylvania
+* worked at [Khan Academy](//khanacademy.org) as a software development intern
+* done research on the Steenrod Algebra with [Mark Behrens](//math.mit.edu/~mbehrens/)
+* been a student at the [University of Minnesota Duluth REU](//www.d.umn.edu/~jgallian/progdesc.html)
