@@ -1,3 +1,3 @@
 
 serve:
-	jekyll serve --watch
+	jekyll serve --watch --trace
