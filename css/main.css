@@ -119,6 +119,18 @@ div.post-date {
     margin-bottom: 0px;
 }
 
+div.post-block {
+    cursor: pointer;
+}
+
+div.post-excerpt div.footnotes {
+    display: none;
+}
+
+div.post-excerpt a.footnote {
+    display: none;
+}
+
 /* individual post */
 
 div.post-wrapper {
