@@ -127,7 +127,7 @@ div.post-excerpt div.footnotes {
     display: none;
 }
 
-div.post-excerpt a.footnote {
+div.post-excerpt sup[id^=fnref] {
     display: none;
 }
 
