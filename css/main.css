@@ -158,10 +158,6 @@ div.post-meta {
     color: #aaa;
 }
 
-article :first-child {
+article > :first-child {
     margin-top: 0px;
-}
-
-article :last-child {
-    margin-bottom: 0px;
 }
