@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ben subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Food" title="Food">
+            <outline type="rss" text="Chocolate &amp; Zucchini" title="Chocolate &amp; Zucchini" xmlUrl="http://chocolateandzucchini.com/index.rdf" htmlUrl="http://chocolateandzucchini.com"/>
+            <outline type="rss" text="Ambitious Kitchen" title="Ambitious Kitchen" xmlUrl="http://www.ambitiouskitchen.com/feed/" htmlUrl="http://www.ambitiouskitchen.com"/>
+            <outline type="rss" text="smitten kitchen" title="smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" htmlUrl="http://smittenkitchen.com"/>
+            <outline type="rss" text="Amateur Gourmet" title="Amateur Gourmet" xmlUrl="http://feeds.feedburner.com/TheAmateurGourmet" htmlUrl="http://www.amateurgourmet.com"/>
+            <outline type="rss" text="Food52" title="Food52" xmlUrl="http://feeds.feedburner.com/food52-TheAandMBlog" htmlUrl="http://food52.com/blog"/>
+            <outline type="rss" text="Simply Recipes | Simply Recipes" title="Simply Recipes | Simply Recipes" xmlUrl="http://feeds.feedburner.com/elise/simplyrecipes" htmlUrl="http://www.simplyrecipes.com"/>
+        </outline>
+        <outline text="Comics" title="Comics">
+            <outline type="rss" text="QC" title="QC" xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net"/>
+            <outline type="rss" text="Hark, A Vagrant!" title="Hark, A Vagrant!" xmlUrl="http://www.rsspect.com/rss/vagrant.xml" htmlUrl="http://www.harkavagrant.com"/>
+            <outline type="rss" text="PhD Unknown" title="PhD Unknown" xmlUrl="http://phdunknown.com/rss.php" htmlUrl="http://www.phdunknown.com/"/>
+            <outline type="rss" text="xkcd" title="xkcd" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
+            <outline type="rss" text="ZEN PENCILS" title="ZEN PENCILS" xmlUrl="http://feeds.feedburner.com/zenpencils" htmlUrl="http://zenpencils.com"/>
+            <outline type="rss" text="SMBC" title="SMBC" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="http://www.smbc-comics.com/"/>
+            <outline type="rss" text="FoxTrot" title="FoxTrot" xmlUrl="http://feeds.feedburner.com/Foxtrotcom" htmlUrl="http://www.foxtrot.com"/>
+        </outline>
+        <outline text="Science and Technology" title="Science and Technology">
+            <outline type="rss" text="Kerbal Space Program Blog" title="Kerbal Space Program Blog" xmlUrl="http://kerbaldevteam.tumblr.com/rss" htmlUrl="http://kerbaldevteam.tumblr.com/"/>
+            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="http://arstechnica.com"/>
+            <outline type="rss" text="Bad Astronomy" title="Bad Astronomy" xmlUrl="http://www.slate.com/blogs/bad_astronomy.fulltext.all.10.rss" htmlUrl="http://www.slate.com/blogs/bad_astronomy.fulltext.all.10.rss"/>
+            <outline type="rss" text="Deeplinks" title="Deeplinks" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
+            <outline type="rss" text="Popular Science" title="Popular Science" xmlUrl="http://www.popsci.com/rss.xml" htmlUrl="http://www.popsci.com/rss.xml"/>
+            <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/atom/" htmlUrl="http://krebsonsecurity.com"/>
+            <outline type="rss" text="TechCrunch » Kim-Mai Cutler - Staff..." title="TechCrunch » Kim-Mai Cutler - Staff..." xmlUrl="http://techcrunch.com/author/kim-mai-cutler/feed/" htmlUrl="http://techcrunch.com"/>
+            <outline type="rss" text="Scientific American" title="Scientific American" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl="http://www.scientificamerican.com"/>
+            <outline type="rss" text="Quanta Magazine" title="Quanta Magazine" xmlUrl="https://www.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
+            <outline type="rss" text="The Switch" title="The Switch" xmlUrl="http://www.washingtonpost.com/blogs/the-switch/feed/" htmlUrl="http://www.washingtonpost.com/blogs/the-switch"/>
+        </outline>
+        <outline text="News Firehose" title="News Firehose">
+            <outline type="rss" text="All News RSS Feed" title="All News RSS Feed" xmlUrl="http://www.rollcall.com/rss/all_news.xml" htmlUrl="http://www.rollcall.com/rss/all_news.xml"/>
+            <outline type="rss" text="Vox -  All" title="Vox -  All" xmlUrl="http://www.vox.com/rss/index.xml" htmlUrl="http://www.vox.com/"/>
+            <outline type="rss" text="NYT &gt; Politics" title="NYT &gt; Politics" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml" htmlUrl="http://www.nytimes.com/pages/politics/index.html?partner=rss&amp;emc=rss"/>
+            <outline type="rss" text="Washington Post: Breaking..." title="Washington Post: Breaking..." xmlUrl="http://feeds.washingtonpost.com/rss/homepage" htmlUrl="http://www.washingtonpost.com?wprss=rss_homepage"/>
+            <outline type="rss" text="Quartz" title="Quartz" xmlUrl="http://qz.com/feed/" htmlUrl="http://qz.com"/>
+            <outline type="rss" text="Slate Articles" title="Slate Articles" xmlUrl="http://feeds.slate.com/slate" htmlUrl="http://www.slate.com/articles.teaser.all.10.rss"/>
+            <outline type="rss" text="First Draft" title="First Draft" xmlUrl="http://www.nytimes.com/politics/first-draft/feed/" htmlUrl="http://www.nytimes.com/politics/first-draft"/>
+            <outline type="rss" text="SPIEGEL ONLINE" title="SPIEGEL ONLINE" xmlUrl="http://www.spiegel.de/international/index.rss" htmlUrl="http://www.spiegel.de"/>
+            <outline type="rss" text="Political Wire" title="Political Wire" xmlUrl="http://politicalwire.com/headlines.xml" htmlUrl="http://politicalwire.com"/>
+            <outline type="rss" text="TheHill - Most Popular" title="TheHill - Most Popular" xmlUrl="http://thehill.com/rss/syndicator/19110" htmlUrl="http://thehill.com/rss/syndicator/19110"/>
+            <outline type="rss" text="NYT &gt; Science" title="NYT &gt; Science" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl="http://www.nytimes.com/pages/science/index.html?partner=rss&amp;emc=rss"/>
+            <outline type="rss" text="Master Feed" title="Master Feed" xmlUrl="http://feeds.feedburner.com/TheAtlantic" htmlUrl="http://www.theatlantic.com/"/>
+            <outline type="rss" text="POLITICO - TOP Stories" title="POLITICO - TOP Stories" xmlUrl="http://www.politico.com/rss/politicopicks.xml" htmlUrl="http://www.politico.com"/>
+            <outline type="rss" text="The Guardian World News" title="The Guardian World News" xmlUrl="http://feeds.theguardian.com/theguardian/us/rss" htmlUrl="http://www.theguardian.com/us"/>
+            <outline type="rss" text="First Draft" title="First Draft" xmlUrl="http://thecaucus.blogs.nytimes.com/feed/" htmlUrl="http://www.nytimes.com/politics/first-draft"/>
+            <outline type="rss" text="NYT &gt; Home Page" title="NYT &gt; Home Page" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss"/>
+            <outline type="rss" text="All TPM News" title="All TPM News" xmlUrl="http://talkingpointsmemo.com/feed/all" htmlUrl="http://talkingpointsmemo.com/news"/>
+            <outline type="rss" text="NYT &gt; U.S." title="NYT &gt; U.S." xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/US.xml" htmlUrl="http://www.nytimes.com/pages/national/index.html?partner=rss&amp;emc=rss"/>
+            <outline type="rss" text="Post Politics: Breaking P..." title="Post Politics: Breaking P..." xmlUrl="http://feeds.washingtonpost.com/rss/politics" htmlUrl="http://www.washingtonpost.com/politics?wprss=rss_politics"/>
+            <outline type="rss" text="NYT &gt; Technology" title="NYT &gt; Technology" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" htmlUrl="http://www.nytimes.com/pages/technology/index.html?partner=rss&amp;emc=rss"/>
+            <outline type="rss" text="Election Law Blog »" title="Election Law Blog »" xmlUrl="http://electionlawblog.org/?feed=rss2" htmlUrl="http://electionlawblog.org"/>
+            <outline type="rss" text="Al Jazeera America" title="Al Jazeera America" xmlUrl="http://america.aljazeera.com/content/ajam/articles.rss" htmlUrl="http://america.aljazeera.com/articles.rss"/>
+            <outline type="rss" text="News" title="News" xmlUrl="http://www.npr.org/rss/rss.php?id=1001" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1001"/>
+        </outline>
+        <outline text="Blogs" title="Blogs">
+            <outline type="rss" text="danah boyd | apophenia" title="danah boyd | apophenia" xmlUrl="http://www.zephoria.org/thoughts/feed" htmlUrl="http://www.zephoria.org/thoughts"/>
+            <outline type="rss" text="The Django weblog" title="The Django weblog" xmlUrl="https://www.djangoproject.com/rss/weblog/" htmlUrl="https://www.djangoproject.com/weblog/"/>
+            <outline type="rss" text="Harry Potter and the Methods of Rationality - ad-free mirror" title="Harry Potter and the Methods of Rationality - ad-free mirror" xmlUrl="http://hpmor.com/rss.xml" htmlUrl="http://hpmor.com/"/>
+            <outline type="rss" text="Square Signals" title="Square Signals" xmlUrl="http://blog.andymatuschak.org/rss" htmlUrl="http://blog.andymatuschak.org/"/>
+            <outline type="rss" text="MapHugger" title="MapHugger" xmlUrl="http://maphugger.com/rss" htmlUrl="http://maphugger.com/"/>
+            <outline type="rss" text="Armed and Dangerous" title="Armed and Dangerous" xmlUrl="http://esr.ibiblio.org/?feed=rss2" htmlUrl="http://esr.ibiblio.org"/>
+            <outline type="rss" text="AMS Grad Blog" title="AMS Grad Blog" xmlUrl="http://blogs.ams.org/mathgradblog/feed/" htmlUrl="http://blogs.ams.org/mathgradblog"/>
+            <outline type="rss" text="The Christian Rationalist" title="The Christian Rationalist" xmlUrl="http://christian-rationalist.blogspot.com/feeds/posts/default" htmlUrl="http://christian-rationalist.blogspot.com/"/>
+            <outline type="rss" text="SAO" title="SAO" xmlUrl="http://saoatmit.wordpress.com/feed/" htmlUrl="https://saoatmit.wordpress.com"/>
+            <outline type="rss" text="18F Digital Services Delivery" title="18F Digital Services Delivery" xmlUrl="https://18f.gsa.gov/feed/" htmlUrl="https://18f.gsa.gov"/>
+            <outline type="rss" text="Strange Maps | Big Think" title="Strange Maps | Big Think" xmlUrl="http://feeds.feedburner.com/bigthink/blogs/strange-maps" htmlUrl="http://bigthink.com/blogs/strange-maps"/>
+            <outline type="rss" text="bitquabit" title="bitquabit" xmlUrl="http://feeds.feedburner.com/bitquabit" htmlUrl="http://bitquabit.com/"/>
+            <outline type="rss" text="What If?" title="What If?" xmlUrl="http://what-if.xkcd.com/feed.atom"/>
+            <outline type="rss" text="The Monad.Reader" title="The Monad.Reader" xmlUrl="http://themonadreader.wordpress.com/feed/" htmlUrl="https://themonadreader.wordpress.com"/>
+            <outline type="rss" text="Zero Wind :: Jamie Wong" title="Zero Wind :: Jamie Wong" xmlUrl="http://feeds.feedburner.com/JamieWong" htmlUrl="http://jamie-wong.com/"/>
+            <outline type="rss" text="Office of Digital Learning » Blog" title="Office of Digital Learning » Blog" xmlUrl="http://odl.mit.edu/category/blog/feed/" htmlUrl="http://odl.mit.edu"/>
+            <outline type="rss" text="Election Updates" title="Election Updates" xmlUrl="http://electionupdates.caltech.edu/feed/" htmlUrl="http://electionupdates.caltech.edu"/>
+            <outline type="rss" text="Khan Academy" title="Khan Academy" xmlUrl="http://feeds.feedburner.com/KhanAcademy" htmlUrl="http://khanacademy.tumblr.com/"/>
+            <outline type="rss" text="KA Engineering" title="KA Engineering" xmlUrl="http://engineering.khanacademy.org/rss.xml" htmlUrl="http://engineering.khanacademy.org"/>
+            <outline type="rss" text="Life at KA" title="Life at KA" xmlUrl="http://feeds.feedburner.com/lifeatka" htmlUrl="http://life.khanacademy.org/"/>
+            <outline type="rss" text="Folding Under Pressure" title="Folding Under Pressure" xmlUrl="http://www.langorigami.com/blog/?feed=rss2" htmlUrl="http://www.langorigami.com/blog"/>
+            <outline type="rss" text="Almost No One is Evil; Almost Everything is Broken" title="Almost No One is Evil; Almost Everything is Broken" xmlUrl="http://blog.jaibot.com/?feed=rss2" htmlUrl="http://blog.jaibot.com"/>
+            <outline type="rss" text="Sean Carroll" title="Sean Carroll" xmlUrl="http://www.preposterousuniverse.com/blog/feed/" htmlUrl="http://www.preposterousuniverse.com/blog"/>
+            <outline type="rss" text="React" title="React" xmlUrl="https://facebook.github.io/react/feed.xml" htmlUrl="https://facebook.github.io/react"/>
+            <outline type="rss" text="Good Math/Bad Math" title="Good Math/Bad Math" xmlUrl="http://www.goodmath.org/blog/?feed=rss2" htmlUrl="http://www.goodmath.org/blog"/>
+            <outline type="rss" text="TurboVote" title="TurboVote" xmlUrl="http://blog.turbovote.org/feed/" htmlUrl="http://blog.turbovote.org"/>
+            <outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="http://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
+            <outline type="rss" text="HabitLab" title="HabitLab" xmlUrl="http://www.habitlab.org/feed/" htmlUrl="http://www.habitlab.org"/>
+            <outline type="rss" text="Math ∩ Programming" title="Math ∩ Programming" xmlUrl="http://jeremykun.com/feed/" htmlUrl="http://jeremykun.com"/>
+            <outline type="rss" text="Khan Academy Computing" title="Khan Academy Computing" xmlUrl="http://cs-blog.khanacademy.org/feeds/posts/default" htmlUrl="http://cs-blog.khanacademy.org/"/>
+            <outline type="rss" text="Paul Graham: Essays" title="Paul Graham: Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="http://www.paulgraham.com/"/>
+            <outline type="rss" text="Blog - Steph Jang" title="Blog - Steph Jang" xmlUrl="http://www.stephjang.com/blog?format=RSS" htmlUrl="http://www.stephjang.com/blog/"/>
+            <outline type="rss" text="marcia lee" title="marcia lee" xmlUrl="http://missmarcialee.com/feed/" htmlUrl="http://missmarcialee.com"/>
+            <outline type="rss" text="Harry Potter and the Methods of ..." title="Harry Potter and the Methods of ..." xmlUrl="http://hpmor.com/feed/" htmlUrl="http://hpmor.com"/>
+            <outline type="rss" text="The Codeless Code" title="The Codeless Code" xmlUrl="http://thecodelesscode.com/rss" htmlUrl="http://thecodelesscode.com"/>
+            <outline type="rss" text="Princeton Election Consortium" title="Princeton Election Consortium" xmlUrl="http://election.princeton.edu/feed/" htmlUrl="http://election.princeton.edu"/>
+            <outline type="rss" text="Annoying Precision" title="Annoying Precision" xmlUrl="http://qchu.wordpress.com/feed/" htmlUrl="https://qchu.wordpress.com"/>
+            <outline type="rss" text="The n-Category Café" title="The n-Category Café" xmlUrl="http://golem.ph.utexas.edu/category/atom10.xml" htmlUrl="http://golem.ph.utexas.edu/category/"/>
+            <outline type="rss" text="4 gravitons and a grad student" title="4 gravitons and a grad student" xmlUrl="http://4gravitonsandagradstudent.wordpress.com/feed/" htmlUrl="https://4gravitons.wordpress.com"/>
+            <outline type="rss" text="xkcd" title="xkcd" xmlUrl="http://blog.xkcd.com/feed/" htmlUrl="http://blog.xkcd.com"/>
+            <outline type="rss" text="Slate Star Codex" title="Slate Star Codex" xmlUrl="http://slatestarcodex.com/feed/" htmlUrl="http://slatestarcodex.com"/>
+            <outline type="rss" text="self" title="self" xmlUrl="http://www.benkraft.org/feed/" htmlUrl="http://www.benkraft.org/"/>
+            <outline type="rss" text="Anu Sinha" title="Anu Sinha" xmlUrl="https://extantelements.github.io/feed.xml"/>
+            <outline type="rss" text="Tim Gowers" title="Tim Gowers" xmlUrl="http://gowers.wordpress.com/feed/" htmlUrl="https://gowers.wordpress.com"/>
+            <outline type="rss" text="DJNZiv" title="DJNZiv" xmlUrl="http://www.djnziv.com/feed/" htmlUrl="http://www.djnziv.com"/>
+            <outline type="rss" text="Google Blog" title="Google Blog" xmlUrl="http://feeds.feedburner.com/blogspot/MKuf" htmlUrl="http://googleblog.blogspot.com/"/>
+            <outline type="rss" text="Jared Forsyth" title="Jared Forsyth" xmlUrl="https://jaredly.github.io/rss.xml" htmlUrl="http://jaredly.github.io/"/>
+            <outline type="rss" text="blog :: Brent -&gt; [String]" title="blog :: Brent -&gt; [String]" xmlUrl="http://byorgey.wordpress.com/feed/" htmlUrl="https://byorgey.wordpress.com"/>
+            <outline type="rss" text="John Baez" title="John Baez" xmlUrl="http://johncarlosbaez.wordpress.com/feed/" htmlUrl="https://johncarlosbaez.wordpress.com"/>
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com/blog/"/>
+            <outline type="rss" text="writings both incomplete and undecidable" title="writings both incomplete and undecidable" xmlUrl="http://blog.raeez.com/rss/" htmlUrl="http://blog.raeez.com/"/>
+            <outline type="rss" text="i ❤ data — Medium" title="i ❤ data — Medium" xmlUrl="https://medium.com/feed/i-data" htmlUrl="https://medium.com/i-data?source=rss----1a8eecba64d1---4"/>
+            <outline type="rss" text="Consider Learning" title="Consider Learning" xmlUrl="http://considerlearning.com/feed/" htmlUrl="http://considerlearning.com"/>
+            <outline type="rss" text="Bret Victor's website" title="Bret Victor's website" xmlUrl="http://worrydream.com/feed.xml" htmlUrl="http://worrydream.com/"/>
+            <outline type="rss" text="Abstract City" title="Abstract City" xmlUrl="http://niemann.blogs.nytimes.com/feed/" htmlUrl="http://niemann.blogs.nytimes.com"/>
+            <outline type="rss" text="Dyn Research" title="Dyn Research" xmlUrl="http://research.dyn.com/feed/" htmlUrl="http://research.dyn.com"/>
+            <outline type="rss" text="DSFP's Spaceflight History Blog" title="DSFP's Spaceflight History Blog" xmlUrl="http://spaceflighthistory.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://spaceflighthistory.blogspot.com/"/>
+            <outline type="rss" text="KADataScience" title="KADataScience" xmlUrl="http://data.khanacademy.org/feeds/posts/default" htmlUrl="http://data.khanacademy.org/"/>
+            <outline type="rss" text="Tom Yedwab" title="Tom Yedwab" xmlUrl="http://www.arguingwithalgorithms.com/rss.xml" htmlUrl="http://www.arguingwithalgorithms.com/"/>
+            <outline type="rss" text="Finding gemstones" title="Finding gemstones" xmlUrl="http://www.mathematicalgemstones.com/feed" htmlUrl="http://www.mathematicalgemstones.com"/>
+            <outline type="rss" text="Ruthie Byers's Blog" title="Ruthie Byers's Blog" xmlUrl="http://www.ruthiebyers.com/rss.xml" htmlUrl="http://www.ruthiebyers.com"/>
+            <outline type="rss" text="Ben Kamens - building things, mostl..." title="Ben Kamens - building things, mostl..." xmlUrl="http://bjk5.com/rss" htmlUrl="http://bjk5.com/"/>
+            <outline type="rss" text="Voteview" title="Voteview" xmlUrl="http://voteview.com/blog/?feed=rss2" htmlUrl="http://voteview.com/blog"/>
+            <outline type="rss" text="Quomodocumque" title="Quomodocumque" xmlUrl="http://quomodocumque.wordpress.com/feed/" htmlUrl="https://quomodocumque.wordpress.com"/>
+            <outline type="rss" text="Math with Bad Drawings" title="Math with Bad Drawings" xmlUrl="http://mathwithbaddrawings.com/feed/" htmlUrl="http://mathwithbaddrawings.com"/>
+            <outline type="rss" text="NYT &gt; Gail Collins" title="NYT &gt; Gail Collins" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/gailcollins/index.html?rss=1" htmlUrl="http://www.nytimes.com/column/gail-collins"/>
+            <outline type="rss" text="Three-Cornered Things" title="Three-Cornered Things" xmlUrl="http://blog.zacharyabel.com/feed/" htmlUrl="http://blog.zacharyabel.com"/>
+            <outline type="rss" text="Good Without God" title="Good Without God" xmlUrl="http://feeds.feedburner.com/patheos/ZYDf" htmlUrl="http://www.patheos.com/blogs/gregepstein"/>
+            <outline type="rss" text="GitHub Engineering" title="GitHub Engineering" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl="http://githubengineering.com"/>
+            <outline type="rss" text="Tanya Khovanova" title="Tanya Khovanova" xmlUrl="http://blog.tanyakhovanova.com/?feed=rss2" htmlUrl="http://blog.tanyakhovanova.com"/>
+            <outline type="rss" text="Shtetl-Optimized" title="Shtetl-Optimized" xmlUrl="http://www.scottaaronson.com/blog/?feed=rss2" htmlUrl="http://www.scottaaronson.com/blog"/>
+            <outline type="rss" text="Science and Synesthesia" title="Science and Synesthesia" xmlUrl="https://csvoss.wordpress.com/feed/" htmlUrl="https://csvoss.wordpress.com"/>
+            <outline type="rss" text="Terrence Tao" title="Terrence Tao" xmlUrl="http://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com"/>
+            <outline type="rss" text="Inside 206-105" title="Inside 206-105" xmlUrl="http://feeds.feedburner.com/ezyang" htmlUrl="http://blog.ezyang.com"/>
+            <outline type="rss" text="Ben Alpert" title="Ben Alpert" xmlUrl="http://benalpert.com/atom.xml" htmlUrl="http://benalpert.com/"/>
+            <outline type="rss" text="mathbabe" title="mathbabe" xmlUrl="http://mathbabe.org/feed/" htmlUrl="http://mathbabe.org"/>
+            <outline type="rss" text="Rands in Repose" title="Rands in Repose" xmlUrl="http://randsinrepose.com/feed/" htmlUrl="http://randsinrepose.com"/>
+            <outline type="rss" text="the jsomers.net blog" title="the jsomers.net blog" xmlUrl="http://jsomers.net/blog/feed" htmlUrl="http://jsomers.net/blog"/>
+            <outline type="rss" text="John Resig" title="John Resig" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org"/>
+            <outline type="rss" text="Vi Hart" title="Vi Hart" xmlUrl="http://vihart.com/blog/rss.xml" htmlUrl="http://vihart.com/"/>
+        </outline>
+        <outline text="Wonks" title="Wonks">
+            <outline type="rss" text="David Brooks - Op-Ed Columnist" title="David Brooks - Op-Ed Columnist" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html?rss=1" htmlUrl="http://www.nytimes.com/column/david-brooks"/>
+            <outline type="rss" text="Vox: All Posts by Sarah Kliff" title="Vox: All Posts by Sarah Kliff" xmlUrl="http://www.vox.com/authors/sarah-kliff/rss" htmlUrl="http://www.vox.com/"/>
+            <outline type="rss" text="Maureen Dowd - Op-Ed Columnist" title="Maureen Dowd - Op-Ed Columnist" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/maureendowd/index.html?rss=1" htmlUrl="http://www.nytimes.com/column/maureen-dowd"/>
+            <outline type="rss" text="Moneybox" title="Moneybox" xmlUrl="http://www.slate.com/blogs/moneybox.fulltext.all.10.rss" htmlUrl="http://www.slate.com/blogs/moneybox.fulltext.all.10.rss"/>
+            <outline type="rss" text="Vox: All Posts by Matthew Yglesias" title="Vox: All Posts by Matthew Yglesias" xmlUrl="http://www.vox.com/authors/matthew-yglesias/rss" htmlUrl="http://www.vox.com/"/>
+            <outline type="rss" text="Roger Cohen - Op-Ed Columnist" title="Roger Cohen - Op-Ed Columnist" xmlUrl="http://topics.nytimes.com/top/news/international/columns/rogercohen/index.html?rss=1" htmlUrl="http://www.nytimes.com/column/roger-cohen"/>
+            <outline type="rss" text="Ta-Nehisi Coates" title="Ta-Nehisi Coates" xmlUrl="http://feeds.feedburner.com/Ta-nehisiCoates" htmlUrl="http://www.theatlantic.com/ta-nehisi-coates/"/>
+            <outline type="rss" text="Politics : The Atlantic" title="Politics : The Atlantic" xmlUrl="http://feeds.feedburner.com/AtlanticPoliticsChannel" htmlUrl="http://www.theatlantic.com/politics/"/>
+            <outline type="rss" text="The Switch" title="The Switch" xmlUrl="http://www.washingtonpost.com/blogs/the-switch/feed/" htmlUrl="http://www.washingtonpost.com/blogs/the-switch"/>
+            <outline type="rss" text="FiveThirtyEight" title="FiveThirtyEight" xmlUrl="http://fivethirtyeight.com/all/feed" htmlUrl="http://fivethirtyeight.com"/>
+            <outline type="rss" text="Thomas L. Friedman - Op-Ed Columnist" title="Thomas L. Friedman - Op-Ed Columnist" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/thomaslfriedman/index.html?rss=1" htmlUrl="http://www.nytimes.com/column/thomas-l-friedman"/>
+            <outline type="rss" text="Monkey Cage" title="Monkey Cage" xmlUrl="http://www.washingtonpost.com/blogs/monkey-cage/feed/" htmlUrl="http://www.washingtonpost.com/blogs/monkey-cage"/>
+            <outline type="rss" text="Marginal REVOLUTION" title="Marginal REVOLUTION" xmlUrl="http://feeds.feedburner.com/marginalrevolution/feed" htmlUrl="http://marginalrevolution.com"/>
+            <outline type="rss" text="Crooked Timber" title="Crooked Timber" xmlUrl="http://crookedtimber.org/feed/" htmlUrl="http://crookedtimber.org"/>
+            <outline type="rss" text="Paul Krugman" title="Paul Krugman" xmlUrl="http://krugman.blogs.nytimes.com/feed/" htmlUrl="http://krugman.blogs.nytimes.com"/>
+            <outline type="rss" text="SCOTUSblog" title="SCOTUSblog" xmlUrl="http://www.scotusblog.com/feed/atom/" htmlUrl="http://www.scotusblog.com"/>
+            <outline type="rss" text="MindShift" title="MindShift" xmlUrl="http://feeds.feedburner.com/kqed/nHAK" htmlUrl="http://ww2.kqed.org/mindshift"/>
+            <outline type="rss" text="Plum Line" title="Plum Line" xmlUrl="http://feeds.washingtonpost.com/rss/rss_plum-line" htmlUrl="http://www.washingtonpost.com/blogs/plum-line"/>
+            <outline type="rss" text="Paul Krugman - Op-Ed Columnist" title="Paul Krugman - Op-Ed Columnist" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/paulkrugman/index.html?rss=1" htmlUrl="http://www.nytimes.com/column/paul-krugman"/>
+            <outline type="rss" text="Joe Nocera - Op-Ed Columnist" title="Joe Nocera - Op-Ed Columnist" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/joenocera/index.html?rss=1" htmlUrl="http://www.nytimes.com/column/joe-nocera"/>
+            <outline type="rss" text="The Volokh Conspiracy" title="The Volokh Conspiracy" xmlUrl="http://www.washingtonpost.com/news/volokh-conspiracy/feed/" htmlUrl="http://www.washingtonpost.com/news/volokh-conspiracy"/>
+            <outline type="rss" text="Washington Center for Equitable Growth" title="Washington Center for Equitable Growth" xmlUrl="http://equitablegrowth.org/feed/" htmlUrl="http://equitablegrowth.org"/>
+            <outline type="rss" text="It's All Politics : NPR" title="It's All Politics : NPR" xmlUrl="http://www.npr.org/rss/rss.php?id=129828651" htmlUrl="http://www.npr.org/sections/itsallpolitics/"/>
+            <outline type="rss" text="Vox: All Posts by Ezra Klein" title="Vox: All Posts by Ezra Klein" xmlUrl="http://www.vox.com/authors/ezra-klein/rss" htmlUrl="http://www.vox.com/"/>
+            <outline type="rss" text="Election Academy" title="Election Academy" xmlUrl="http://blog.lib.umn.edu/cspg/electionacademy/atom.xml" htmlUrl="http://blog.lib.umn.edu/cspg/electionacademy/"/>
+            <outline type="rss" text="Jonathan Chait RSS Feed" title="Jonathan Chait RSS Feed" xmlUrl="http://feeds.feedburner.com/JonathanChaitRssFeed" htmlUrl="http://nymag.com/feeds/"/>
+            <outline type="rss" text="Wonkblog" title="Wonkblog" xmlUrl="http://feeds.washingtonpost.com/rss/rss_ezra-klein" htmlUrl="http://www.washingtonpost.com/blogs/wonkblog"/>
+            <outline type="rss" text="NYT &gt; The Upshot" title="NYT &gt; The Upshot" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml" htmlUrl="http://www.nytimes.com/upshot?partner=rss&amp;emc=rss"/>
+        </outline>
+        <outline text="Culture" title="Culture">
+            <outline type="rss" text="Longreads.com" title="Longreads.com" xmlUrl="http://longreads.com/rss/" htmlUrl="http://longreads.com/"/>
+            <outline type="rss" text="The Message — Medium" title="The Message — Medium" xmlUrl="https://medium.com/feed/message" htmlUrl="https://medium.com/message?source=rss----81c7d351c056---4"/>
+            <outline type="rss" text="Nautilus" title="Nautilus" xmlUrl="http://nautil.us/rss/all" htmlUrl="http://nautil.us/rss/all"/>
+            <outline type="rss" text="Dissent Magazine" title="Dissent Magazine" xmlUrl="http://www.dissentmagazine.org/feed" htmlUrl="http://www.dissentmagazine.org"/>
+            <outline type="rss" text="Aeon Magazine" title="Aeon Magazine" xmlUrl="http://feeds.feedburner.com/AeonMagazineEssays" htmlUrl="http://aeon.co/magazine"/>
+            <outline type="rss" text="Ta-Nehisi Coates" title="Ta-Nehisi Coates" xmlUrl="http://feeds.feedburner.com/Ta-nehisiCoates" htmlUrl="http://www.theatlantic.com/ta-nehisi-coates/"/>
+        </outline>
+        <outline text="Overflow" title="Overflow">
+            <outline type="rss" text="Diaspora Blog" title="Diaspora Blog" xmlUrl="http://www.joindiaspora.com/atom.xml" htmlUrl="https://blog.diasporafoundation.org"/>
+            <outline type="rss" text="Salon Comics" title="Salon Comics" xmlUrl="http://feeds.feedburner.com/salon/comics" htmlUrl="http://www.salon.com"/>
+            <outline type="rss" text="Jacobin » Blogs" title="Jacobin » Blogs" xmlUrl="https://www.jacobinmag.com/category/blogs/feed/" htmlUrl="https://www.jacobinmag.com"/>
+            <outline type="rss" text="Gödel's Lost Letter and P=NP" title="Gödel's Lost Letter and P=NP" xmlUrl="http://rjlipton.wordpress.com/feed/" htmlUrl="https://rjlipton.wordpress.com"/>
+            <outline type="rss" text="Sporcle" title="Sporcle" xmlUrl="http://feeds.feedburner.com/Sporcle" htmlUrl="http://www.sporcle.com"/>
+            <outline type="rss" text="Persiflage" title="Persiflage" xmlUrl="http://galoisrepresentations.wordpress.com/feed/" htmlUrl="https://galoisrepresentations.wordpress.com"/>
+            <outline type="rss" text="Nicholas D. Kristof" title="Nicholas D. Kristof" xmlUrl="http://kristof.blogs.nytimes.com/feed/" htmlUrl="http://kristof.blogs.nytimes.com"/>
+            <outline type="rss" text="Improv Everywhere" title="Improv Everywhere" xmlUrl="http://feeds.feedburner.com/ImprovEverywhere" htmlUrl="http://improveverywhere.com"/>
+            <outline type="rss" text="Non Sequitur" title="Non Sequitur" xmlUrl="http://feeds.feedburner.com/uclick/nonsequitur" htmlUrl="http://www.gocomics.com/nonsequitur"/>
+            <outline type="rss" text="COSMOS Opinion" title="COSMOS Opinion" xmlUrl="http://www.cosmosmagazine.com/rss/opinion" htmlUrl="https://cosmosmagazine.com"/>
+            <outline type="rss" text="Starts With A Bang" title="Starts With A Bang" xmlUrl="http://scienceblogs.com/startswithabang/index.xml" htmlUrl="http://scienceblogs.com/startswithabang"/>
+            <outline type="rss" text="Sporcle Blog" title="Sporcle Blog" xmlUrl="http://www.sporcle.com/blog/feed/" htmlUrl="http://www.sporcle.com/blog"/>
+            <outline type="rss" text="3quarksdaily" title="3quarksdaily" xmlUrl="http://feeds2.feedburner.com/3quarksdaily" htmlUrl="http://www.3quarksdaily.com/3quarksdaily/"/>
+            <outline type="rss" text="The Nib — Medium" title="The Nib — Medium" xmlUrl="https://medium.com/feed/the-nib" htmlUrl="https://thenib.com?source=rss----e74de0cedea9---4"/>
+            <outline type="rss" text="Frontloading HQ" title="Frontloading HQ" xmlUrl="http://feeds.feedburner.com/fhq" htmlUrl="http://frontloading.blogspot.com/"/>
+            <outline type="rss" text="Daily Kos Comics" title="Daily Kos Comics" xmlUrl="http://www.dailykos.com/user/Comics/rss/index.xml" htmlUrl="http://www.dailykos.com/user/Comics/rss/index.xml"/>
+            <outline type="rss" text="Physics Buzz" title="Physics Buzz" xmlUrl="http://physicsbuzz.physicscentral.com/feeds/posts/default?alt=rss" htmlUrl="http://physicsbuzz.physicscentral.com/"/>
+            <outline type="rss" text="APOD" title="APOD" xmlUrl="http://apod.nasa.gov/apod.rss" htmlUrl="http://antwrp.gsfc.nasa.gov/"/>
+            <outline type="rss" text="GoComics.com - Calvin and Hobbes..." title="GoComics.com - Calvin and Hobbes..." xmlUrl="http://feeds.feedburner.com/uclick/calvinandhobbes" htmlUrl="http://www.gocomics.com/calvinandhobbes"/>
+            <outline type="rss" text="Dropbox Blog" title="Dropbox Blog" xmlUrl="http://blog.dropbox.com/?feed=rss2" htmlUrl="https://dropboxmainblog.wordpress.com"/>
+            <outline type="rss" text="The TSA Blog" title="The TSA Blog" xmlUrl="http://feeds.feedburner.com/tsa/sDax" htmlUrl="http://blog.tsa.gov/"/>
+            <outline type="rss" text="Foldit Puzzles" title="Foldit Puzzles" xmlUrl="http://fold.it/comm/puzzles_rss" htmlUrl="http://fold.it"/>
+            <outline type="rss" text="Dilbert" title="Dilbert" xmlUrl="http://feeds.feedburner.com/DilbertDailyStrip" htmlUrl="http://dilbert.com"/>
+            <outline type="rss" text="TED" title="TED" xmlUrl="http://feeds.feedburner.com/tedtalks_video" htmlUrl="http://www.ted.com/talks/list"/>
+            <outline type="rss" text="Seth Godin's Blog on marketing, tribes and respect" title="Seth Godin's Blog on marketing, tribes and respect" xmlUrl="https://feeds.feedblitz.com/sethsblog" htmlUrl="http://sethgodin.typepad.com/seths_blog/"/>
+            <outline type="rss" text="Editorials" title="Editorials" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/?rss=1" htmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html?rss=1"/>
+            <outline type="rss" text="Big Think" title="Big Think" xmlUrl="http://feeds.feedburner.com/bigthink/main" htmlUrl="http://bigthink.com/"/>
+            <outline type="rss" text="Inappropriate Ümläüts" title="Inappropriate Ümläüts" xmlUrl="http://inappropriate-umlauts.tumblr.com/rss" htmlUrl="http://inappropriate-umlauts.tumblr.com/"/>
+            <outline type="rss" text="Election Law Blog »" title="Election Law Blog »" xmlUrl="http://electionlawblog.org/?feed=rss2" htmlUrl="http://electionlawblog.org"/>
+            <outline type="rss" text="Reddit" title="Reddit" xmlUrl="http://blog.reddit.com/feeds/posts/default" htmlUrl="http://www.redditblog.com/"/>
+        </outline>
+    </body>
+</opml>
