@@ -147,6 +147,12 @@ article.post-content {
     max-width: 85%;
 }
 
+article.post-content > p > img {
+    /* images in posts not in any other markup */
+    width: 95%;
+    margin: 0px auto;
+}
+
 div.post-meta {
     display: inline-block;
     margin: 0px;
