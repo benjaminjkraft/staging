@@ -6,10 +6,7 @@ permalink: /about/
 
 I'm Ben Kraft, and this is my website.
 
-I'm currently or soon will be:
-
-* traveling to national parks for the summer
-* starting at [Khan Academy](https://khanacademy.org) as a software developer
+I'm currently a software developer at [Khan Academy](https://khanacademy.org).
 
 I have recently or not-so-recently:
 
