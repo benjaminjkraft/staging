@@ -17,7 +17,7 @@ I have recently or not-so-recently:
 * been president of the [MIT Association of Student Activities](http://web.mit.edu/asa)
 * co-chaired [MIT ESP](https://esp.mit.edu)
 * directed [Splash](https://esp.mit.edu/learn/Splash) 2012
-* done research on the Steenrod Algebra with [Mark Behrens](http://math.mit.edu/~mbehrens/)
-* done research in combinatorics at the [University of Minnesota Duluth REU](http://www.d.umn.edu/~jgallian/progdesc.html)
+* done research on the Steenrod Algebra with [Mark Behrens](https://www3.nd.edu/~mbehren1/)
+* done research in combinatorics at the [University of Minnesota Duluth REU](https://www.d.umn.edu/~jgallian/progdesc.html)
 
 My resume is [here](/files/resume.pdf).
