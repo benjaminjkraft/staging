@@ -20,4 +20,4 @@ I have recently or not-so-recently:
 * done research on the Steenrod Algebra with [Mark Behrens](https://www3.nd.edu/~mbehren1/)
 * done research in combinatorics at the [University of Minnesota Duluth REU](https://www.d.umn.edu/~jgallian/progdesc.html)
 
-My resume is [here](/files/resume.pdf).
+You can also read my [resume](/files/resume.pdf).
