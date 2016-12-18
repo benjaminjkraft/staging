@@ -160,6 +160,10 @@ article.post-content > p > img {
     margin: 0px auto;
 }
 
+article.post-content > p > img.half-width {
+    width: 45%;
+}
+
 div.post-meta {
     display: inline-block;
     margin: 0px;
