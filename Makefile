@@ -2,5 +2,10 @@
 serve:
 	jekyll serve --watch --trace --drafts
 
+draft:
+	git add _posts files && git commit -m "post" && git push staging master
+
 post:
-	git add _posts && git commit -m "post" && git push origin master
+	git fetch origin
+	git fetch staging
+	git push origin staging/master:master
