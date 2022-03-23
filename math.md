@@ -3,11 +3,11 @@ layout: page
 title: Math
 permalink: /math/
 ---
-Below is a partial list of the math research I've done.
+Before becoming a software engineer, I did theoretical math; below are my research projects.
 
 ### Length-\\(k\\) Steenrod Operations
 
-In Summer 2013 I worked on determining the structure of the subalgebras \\(L(k)\\) of the Steenrod Algebra as modules over the subalgebras \\(\\mathcal{A}(r)\\), mentored by [Mark Behrens](https://www3.nd.edu/~mbehren1/).  The hope is to show that in a certain sense \\(L(k)\\), when considered as a module over \\(\\mathcal{A}(r)\\), is built up out of copies of the "quotient" algebras \\(\\mathcal{A}(r)//\\mathcal{A}(r-k)\\).  I'm still working on writing up the results, but until then, you can see the [poster](/files/steenrod-poster.pdf) I presented at the 2014 Joint Mathematics Meetings.
+In Summer 2013 I worked on determining the structure of the subalgebras \\(L(k)\\) of the Steenrod Algebra as modules over the subalgebras \\(\\mathcal{A}(r)\\), mentored by [Mark Behrens](https://www3.nd.edu/~mbehren1/).  The hope was to show that in a certain sense \\(L(k)\\), when considered as a module over \\(\\mathcal{A}(r)\\), is built up out of copies of the "quotient" algebras \\(\\mathcal{A}(r)//\\mathcal{A}(r-k)\\).  I never ended up doing a full write-up of the results, but you can see the [poster](/files/steenrod-poster.pdf) I presented at the 2014 Joint Mathematics Meetings.
 
 ### Transposition Trees
 
