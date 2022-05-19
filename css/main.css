@@ -44,10 +44,6 @@ blockquote {
     font-style: italic;
 }
 
-hr {
-    width: 8%;
-}
-
 /* header/footer */
 
 .site-header {
@@ -159,10 +155,6 @@ div.post-wrapper {
     margin: 0px auto;
 }
 
-div.post-meta {
-    display: inline-block;
-}
-
 article.post-content {
     display: inline-block;
     max-width: 85%;
@@ -195,4 +187,24 @@ article > :first-child {
 
 div.footnotes {
     border-top: 1px solid #bbb;
+}
+
+@media print {
+    header.site-header {
+        display: none;
+    }
+    footer.site-footer {
+        display: none;
+    }
+    div.push {
+        display: none;
+    }
+    div.post-meta {
+        display: block;
+        max-width: 100%;
+    }
+    article.post-content {
+        display: block;
+        max-width: 100%;
+    }
 }
