@@ -12,6 +12,7 @@ h1 {
 
 h2 {
     border-bottom: 1px solid black;
+    margin-top: 1.5em;
 }
 
 h3 {
@@ -29,6 +30,11 @@ li {
 
 .page-content a {
     color: #333;
+    text-decoration: underline;
+}
+
+.page-content h3 a {
+    text-decoration: none;
 }
 
 .resume-date {
