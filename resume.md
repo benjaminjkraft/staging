@@ -13,25 +13,19 @@ extracss: /css/resume.css
 <a href="https://www.benkraft.org">www.benkraft.org</a>
 </div>
 
-## Education
-
-### Massachusetts Institute of Technology <span class="resume-date">2011-2015</span>
-
-- S.B. in mathematics with minors in physics and political science, GPA 5.0/5.
-
 ## Employment
 
 ### [Khan Academy](https://www.khanacademy.org), Staff Software Engineer <span class="resume-date">2020-2021</span>
 
-- Core part of planning and architecting company-wide effort to move off Python 2 onto a services architecture in Go. Designed initial breakdown of services, selected and integrated core technologies, and supported teams moving to the new system.
+- Core part of planning and architecting company-wide effort to move off Python 2 onto a services architecture in Go lasting over a year and involving over 50 engineers. Designed initial breakdown of services, selected and integrated core technologies, and supported teams moving to the new system.
 - Proposed, designed, and built [genqlient](https://github.com/Khan/genqlient), an open-source GraphQL client.
 - Ported core functionality from Python to Go including authentication and authorization, feature flags, and content publishing.
 - Member of 24×7 on-call rotation, responded to complex sitewide outages.
 
 ### [Khan Academy](https://www.khanacademy.org), Senior Software Engineer <span class="resume-date">2018-2019</span>
 
-- Led team of three supporting tooling for other engineers including dev environment and deploy system. Started periodic dev tooling survey to understand pain points.
-- Worked on backend for new time-on-site tracking system to unify reporting for students, teachers, schools, and internal analytics.
+- Led team of three supporting tooling for 50+ engineers including dev environment and deploy system. Started periodic dev tooling survey to understand pain points.
+- Built backend for new time-on-site tracking system processing thousands of events per second to unify reporting for students, teachers, schools, and internal analytics.
 - Part of a project to speed up common page load times by as much as 10x by caching user-independent data in a CDN.
 
 ### [Khan Academy](https://www.khanacademy.org), Software Engineer <span class="resume-date">2015-2017</span>
@@ -52,6 +46,12 @@ extracss: /css/resume.css
 ### [slicker](https://github.com/Khan/slicker) <span class="resume-date">2017-2019</span>
 
 - Creator of [slicker](https://github.com/Khan/slicker), a tool for moving Python code.
+
+## Education
+
+### Massachusetts Institute of Technology <span class="resume-date">2011-2015</span>
+
+- S.B. in mathematics with minors in physics and political science, GPA 5.0/5.
 
 ## Research
 
