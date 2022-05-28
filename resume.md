@@ -27,6 +27,7 @@ extracss: /css/resume.css
 - Led team of three supporting tooling for 50+ engineers including dev environment and deploy system. Started periodic dev tooling survey to understand pain points.
 - Built backend for new time-on-site tracking system processing thousands of events per second to unify reporting for students, teachers, schools, and internal analytics.
 - Part of a project to speed up common page load times by as much as 10x by caching user-independent data in a CDN.
+- Served on company-wide career development and hackathon organizing committees.
 
 ### [Khan Academy](https://www.khanacademy.org), Software Engineer <span class="resume-date">2015-2017</span>
 

@@ -13,11 +13,12 @@ h1 {
 h2 {
     border-bottom: 1px solid black;
     margin-top: 0.83em; /* fudge factor for page breaks */
+    margin-bottom: 0.7em; /* fudge factor for page breaks */
 }
 
 h3 {
     font-size: 100%;
-    margin-bottom: 0.6em; /* fudge factor for page breaks */
+    margin-bottom: 0.4em; /* fudge factor for page breaks */
 }
 
 ul {
