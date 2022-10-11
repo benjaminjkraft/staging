@@ -15,6 +15,10 @@ extracss: /css/resume.css
 
 ## Employment
 
+### [Notion](https://www.notion.so), Software Engineer <span class="resume-date">2022-present</span>
+
+- Joined Notion on the Infrastructure team in October 2022. Watch this space!
+
 ### [Khan Academy](https://www.khanacademy.org), Staff Software Engineer <span class="resume-date">2020-2021</span>
 
 - Core part of planning and architecting company-wide effort to move off Python 2 onto a services architecture in Go lasting over a year and involving over 50 engineers. Designed initial breakdown of services, selected and integrated core technologies, and supported teams moving to the new system.

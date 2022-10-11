@@ -6,12 +6,12 @@ permalink: /about/
 
 Hello! I'm Ben Kraft (he/him), and this is my website.
 
-I've been taking a break between jobs, and am now beginning to look for a new software engineering gig. If you know of one I would like (most importantly, one with great coworkers), please reach out!
+The latest: after a year off between jobs, I've recently joined the Infrastructure team at [Notion](https://www.notion.so), about which I'm very excited!
 
 By way of biographical snippets:
 
 * I grew up in Bethlehem, Pennsylvania.
-* I was a software engineer, and before that a software engineering intern, at [Khan Academy](https://khanacademy.org).
+* For 6 years I was a software engineer, and before that a software engineering intern, at [Khan Academy](https://khanacademy.org).
 * I graduated from MIT with an S.B. in math, and minors in physics and political science.
 * I was previously involved with the [MIT Educational Studies Program](https://esp.mit.edu) and later its offshoot [Learning Unlimited](https://www.learningu.org).
 
