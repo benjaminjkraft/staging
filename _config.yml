@@ -3,6 +3,11 @@ title: Ben Kraft
 email: ben@benkraft.org
 url: "http://www.benkraft.org"
 
+collections:
+  # TODO: make this make an index page once I have multiple voter guides
+  ballot:
+    output: true
+
 # Build settings
 markdown: kramdown
 permalink: pretty
