@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  <meta http-equiv="refresh" content="url={{ page.target }}"/>
+
+    <body>
+
+    <div class="wrapper">
+      {% include header.html %}
+
+      <div class="page-content">
+        Redirecting to <a href="{{ page.target }}">{{ page.title }}</a> like it's 1995
+        <div class="push"></div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>
