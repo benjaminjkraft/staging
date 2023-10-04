@@ -24,4 +24,4 @@ I started contributing to the website of the [MIT Educational Studies Program](h
 
 ### Venmo Security
 
-For our group project for MIT [6.857](https://courses.csail.mit.edu/6.857/), [Eric Mannes](https://ericmann.es), [Jordan Moldow](https://github.com/jmoldow), and I tried to reverse-engineer [Venmo](https://venmo.com), a social payments app.  We found some interesting [security holes](/files/venmo.pdf) (which we sent to Venmo and they fixed).
+For our group project for MIT [6.857](https://courses.csail.mit.edu/6.857/), two friends and I tried to reverse-engineer [Venmo](https://venmo.com), a social payments app.  We found some interesting security holes (which we sent to Venmo and they fixed).
