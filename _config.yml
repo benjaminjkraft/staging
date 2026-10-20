@@ -1,7 +1,7 @@
 # Site settings
 title: Ben Kraft
 email: ben@benkraft.org
-url: "http://www.benkraft.org"
+url: "https://www.benkraft.org"
 
 collections:
   ballot:

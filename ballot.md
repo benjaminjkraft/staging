@@ -2,5 +2,5 @@
 layout: redirect
 title: San Francisco Voter Guide
 permalink: /ballot/
-target: /ballot/2026-06/
+target: /ballot/2026-11/
 ---
