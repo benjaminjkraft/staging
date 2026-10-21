@@ -6,6 +6,17 @@ url: "https://www.benkraft.org"
 collections:
   ballot:
     output: true
+  # printable summaries: for each guide in _ballot, add an empty (front matter
+  # only) file with the same name here
+  ballot_print:
+    output: true
+    permalink: /ballot/:name/print/
+
+defaults:
+  - scope:
+      type: ballot_print
+    values:
+      layout: ballot-print
 
 # Build settings
 markdown: kramdown

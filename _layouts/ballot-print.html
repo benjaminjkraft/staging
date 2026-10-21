@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+{% comment %}
+Printable two-sided half-page summary of a voter guide, used by the stubs in
+_ballot_print (see _config.yml); each renders the guide in _ballot with the
+same filename.  Pulls the "Summary" section (a series of "Heading:"
+paragraphs, each followed by a list) out of the rendered guide, so it needs no
+data of its own.  The stub's front matter sets:
+  subtitle: line under the title
+  front:    sections for the front, in order, each given as a substring of
+            its heading
+  back:     likewise for the back
+  qr:       which side gets the QR code, front or back
+  replace:  optional map of text to replace, e.g. to shorten long lines
+{% endcomment %}
+{% assign guide = site.ballot | where: "slug", page.slug | first %}
+{% assign summary = guide.content | split: '<h2 id="summary">Summary</h2>' | last | split: '<h2' | first %}
+{% comment %}Each chunk but the last is "<p>Heading:</p><ul>...", the last is trailing prose.{% endcomment %}
+{% assign chunks = summary | split: '</ul>' %}
+{% assign nsections = chunks.size | minus: 1 %}
+{% assign nplaced = 0 %}
+{% capture front_sections %}{% for match in page.front %}{% for chunk in chunks limit: nsections %}{% assign heading = chunk | split: '</p>' | first %}{% if heading contains match %}<section>{{ chunk }}</ul></section>{% assign nplaced = nplaced | plus: 1 %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
+{% capture back_sections %}{% for match in page.back %}{% for chunk in chunks limit: nsections %}{% assign heading = chunk | split: '</p>' | first %}{% if heading contains match %}<section>{{ chunk }}</ul></section>{% assign nplaced = nplaced | plus: 1 %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
+{% capture qr %}
+<footer>
+    <img class="qr" src="/files/ballot-qr.svg" alt="QR code linking to benkraft.org/ballot">
+    <div>
+        <div>Lots more words at</div>
+        <div class="url">benkraft.org/ballot</div>
+    </div>
+</footer>
+{% endcapture %}
+{% capture front %}
+<header>
+    <h1>Ben Kraft Voter Guide</h1>
+    <div class="subtitle">{{ page.subtitle }}</div>
+</header>
+{{ front_sections }}
+{% if page.qr == "front" %}{{ qr }}{% endif %}
+{% endcapture %}
+{% capture back %}
+{{ back_sections }}
+{% if page.qr == "back" %}{{ qr }}{% endif %}
+{% endcapture %}
+{% assign front = front | replace: ': <span class="endorsement">', ' <span class="endorsement">' %}
+{% assign back = back | replace: ': <span class="endorsement">', ' <span class="endorsement">' %}
+{% for pair in page.replace %}
+{% assign front = front | replace: pair[0], pair[1] %}
+{% assign back = back | replace: pair[0], pair[1] %}
+{% endfor %}
+<html class="sheet">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>{{ guide.title }} (printable) | {{ site.title }}</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+        <link rel="stylesheet" type="text/css" href="/css/ballot-print.css">
+    </head>
+    <body>
+        <nav class="controls">
+            Print layout (see the <a href="{{ guide.url }}">full guide</a>):
+            <label><input type="radio" name="layout" value="sheet" checked>
+                                single-sided</label>
+            <label><input type="radio" name="layout" value="duplex"> double-sided</label>
+            {% if nplaced != nsections %}<div class="warning">Placed {{ nplaced }} of {{ nsections }} sections; check front/back in {{ page.path }}</div>{% endif %}
+        </nav>
+
+        <div class="paper only-sheet">
+            <div class="half front">{{ front }}</div>
+            <div class="half back">{{ back }}</div>
+        </div>
+
+        <div class="paper only-duplex">
+            <div class="half front">{{ front }}</div>
+            <div class="half front">{{ front }}</div>
+        </div>
+        <div class="paper only-duplex">
+            <div class="half back">{{ back }}</div>
+            <div class="half back">{{ back }}</div>
+        </div>
+
+        <script>
+            // Use the largest font size at which every side still fits.
+            function fit() {
+                var halves = Array.prototype.filter.call(
+                    document.querySelectorAll('.half'),
+                    function(half) { return half.offsetParent; });
+                function fits(size) {
+                    document.body.style.fontSize = size + 'pt';
+                    return halves.every(function(half) {
+                        return half.scrollHeight <= half.clientHeight;
+                    });
+                }
+                var size = 13;
+                while (size > 7 && !fits(size)) {
+                    size -= 0.25;
+                }
+            }
+            document.fonts.ready.then(fit);
+
+            document.querySelectorAll('input[name=layout]').forEach(function(input) {
+                input.addEventListener('change', function() {
+                    document.documentElement.className = input.value;
+                    history.replaceState(null, '', '#' + input.value);
+                    fit();
+                });
+                if (location.hash === '#' + input.value) {
+                    input.checked = true;
+                    document.documentElement.className = input.value;
+                }
+            });
+        </script>
+    </body>
+</html>
